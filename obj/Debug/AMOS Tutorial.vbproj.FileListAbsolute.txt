@@ -1,0 +1,13 @@
+C:\Users\KAUSTUV\source\repos\AMOS Tutorial\obj\Debug\AMOS_Tutorial.Query_Select.resources
+C:\Users\KAUSTUV\source\repos\AMOS Tutorial\obj\Debug\AMOS_Tutorial.Query_View.resources
+C:\Users\KAUSTUV\source\repos\AMOS Tutorial\obj\Debug\AMOS Tutorial.vbproj.GenerateResource.cache
+C:\Users\KAUSTUV\source\repos\AMOS Tutorial\bin\Debug\AMOS Tutorial.exe
+C:\Users\KAUSTUV\source\repos\AMOS Tutorial\bin\Debug\AMOS Tutorial.pdb
+C:\Users\KAUSTUV\source\repos\AMOS Tutorial\obj\Debug\AMOS Tutorial.exe
+C:\Users\KAUSTUV\source\repos\AMOS Tutorial\obj\Debug\AMOS Tutorial.pdb
+C:\Users\KAUSTUV\source\repos\AMOS Tutorial\obj\Debug\AMOS Tutorial.vbprojAssemblyReference.cache
+C:\Users\KAUSTUV\source\repos\AMOS Tutorial\bin\Debug\AMOS Tutorial.exe.manifest
+C:\Users\KAUSTUV\source\repos\AMOS Tutorial\bin\Debug\AMOS Tutorial.application
+C:\Users\KAUSTUV\source\repos\AMOS Tutorial\obj\Debug\AMOS Tutorial.TrustInfo.xml
+C:\Users\KAUSTUV\source\repos\AMOS Tutorial\obj\Debug\AMOS Tutorial.exe.manifest
+C:\Users\KAUSTUV\source\repos\AMOS Tutorial\obj\Debug\AMOS Tutorial.application
