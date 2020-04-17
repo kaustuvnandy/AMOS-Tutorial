@@ -21,13 +21,22 @@ Public Class Query_Select
         Dim dvQueries As New DataView
         dvQueries = dtQueries.DefaultView
         dvQueries.RowFilter = "Query LIKE '%" + TextBox1.Text + "%'"
+        If (dvQueries.Table.Rows.Count = 0) Then
+            View.Enabled = False
+        Else
+            View.Enabled = True
+        End If
     End Sub
 
     Private Sub View_Click(sender As Object, e As EventArgs) Handles View.Click
-        Dim obj As New Query_View
-        obj.query = ListBox1.GetItemText(ListBox1.SelectedItem)
-        obj.Show()
-        Me.Hide()
+        Try
+            Dim obj As New Query_View
+            obj.query = ListBox1.GetItemText(ListBox1.SelectedItem)
+            obj.Show()
+            Me.Hide()
+        Catch ex As Exception
+
+        End Try
     End Sub
 
     Private Sub Quit_Click(sender As Object, e As EventArgs) Handles Quit.Click

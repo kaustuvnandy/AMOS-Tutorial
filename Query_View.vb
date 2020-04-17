@@ -43,7 +43,7 @@ Public Class Query_View
         Me.Location = New Point(x, y)
         Me.TopMost = True
         Me.Text = query
-        path = "C:\AMOS Tutorial\" & query
+        path = "\\DESKTOP-5HELUA6\Backup Drive\AMOS Tutorial\" & query
         count = (Directory.GetFiles(path, "*", SearchOption.TopDirectoryOnly).Length) / 2
         up = 1
         down = 1
